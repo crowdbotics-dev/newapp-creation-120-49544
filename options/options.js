@@ -9,6 +9,6 @@ export const modulesOptions = {
   "@modules/app-menu": {
     "title": "App Menu",
     "copy": "Routes available",
-    "styles": styles22
+    "styles": styles
   }
 };
