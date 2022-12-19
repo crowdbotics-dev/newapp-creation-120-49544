@@ -1,5 +1,5 @@
 import { StyleSheet } from "react-native";
-const styles = StyleSheet.create({});
+
 export const globalOptions = {
   "name": "newapp-creation-120-49544",
   "url": "https://newapp-creation-120-49544.botics.co",
